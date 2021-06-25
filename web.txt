@@ -1,0 +1,9 @@
+Question 1: How does the internet work?
+The internet is a series of networks, or computers, that speak to eachother. These
+computers/networks transmit data to eachother in packets.
+
+
+Question 2: What happens when  you click on a link?
+in the link you click, there will be a URL associated with it.  Your browser then uses
+DNS to get the IP address of that URL.  Your browser will open a TCP connection and
+connects with the HTTP/S server.  Your browser will then render the HTML of that server.
